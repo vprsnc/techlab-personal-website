@@ -1,6 +1,6 @@
 baseURL = 'https://georgyt.xyz/'
 languageCode = 'en-us'
-title = 'Lies, damn lies, and statistics'
+title = 'Georgy Toporkov'
 theme = "techlab"
 hasCJKLanguage = true
 
