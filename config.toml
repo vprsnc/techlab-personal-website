@@ -26,7 +26,7 @@ hasCJKLanguage = true
     Gitlab = "https://gitlab.com/vprsnc"
     Email = "me@georgyt.xyz"
     Github = "https://github.com/vprsnc"
-    Linkedin = "https://linkedin.com/georgy-toporkov-actually"
+    Linkedin = "https://www.linkedin.com/in/georgy-toporkov-actually/"
 
 [taxonomies]
   tag = "tags"
