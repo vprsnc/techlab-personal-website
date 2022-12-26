@@ -1,0 +1,33 @@
+baseURL = 'https://georgyt.xyz/'
+languageCode = 'en-us'
+title = 'Lies, damn lies, and statistics'
+theme = "techlab"
+hasCJKLanguage = true
+
+[menu]
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 2
+[[menu.main]]
+  name = 'My Posts'
+  url = '/my-posts/'
+  weight = 1
+[[menu.main]]
+  name = 'RSS'
+  url = '/index.xml'
+  weight = 3
+
+[params]
+  description = "Hi there! Good to have you here, my name is Georgy, and I am a data analyst. Feel free to check out 'about' section for my CV, or take a look on my posts on statistics, analytics, and other fun stuff."
+  includeFooter = true
+  [params.social]
+    Telegram = "https://t.me/vprsnc"
+    Gitlab = "https://gitlab.com/vprsnc"
+    Email = "me@georgyt.xyz"
+    Github = "https://github.com/vprsnc"
+    Linkedin = "https://linkedin.com/georgy-toporkov-actually"
+
+[taxonomies]
+  tag = "tags"
+  example = "examples"
