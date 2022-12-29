@@ -15,5 +15,7 @@ If you would like to work together, you could benefit from hiring a person who i
 
 Looking forward to hearing from you!
 
-[Download CV](/CV.pdf)
+* [Download CV](/CV.pdf) 
+* [Check portfolio](/portfolio)
+
 

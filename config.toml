@@ -6,6 +6,10 @@ hasCJKLanguage = true
 
 [menu]
 [[menu.main]]
+  name = 'Portfolio'
+  url = '/portfolio/'
+  weight = 2
+[[menu.main]]
   name = 'About'
   url = '/about/'
   weight = 2
@@ -19,7 +23,7 @@ hasCJKLanguage = true
   weight = 3
 
 [params]
-  description = "Hi there! Good to have you here, my name is Georgy, and I am a data analyst. Feel free to check out 'about' section for my CV, or take a look on my posts on statistics, analytics, and other fun stuff."
+  description = "Hi there! Good to have you here, my name is Georgy, and I am a data analyst. Feel free to check out 'about' and 'portfolio' sections for my CV, or take a look on my posts on statistics, analytics, and other fun stuff, and don't forget about the portfolio! This is a new webset, so there's not much here, but I'm trying to keep it up, and collect all the things here."
   includeFooter = true
   [params.social]
     Telegram = "https://t.me/vprsnc"
