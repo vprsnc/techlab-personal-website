@@ -6,6 +6,13 @@ display: true
 ---
 
 Here you can find some of the analytical dashboards built by me, as well the source code.
+### Bayesian A/B test calculator
+Universal calculator for any kind of A/B tests, build 100% with R and Shiny.
+
+* [calculator](https://shiny.georgyt.xyz/myapps/a-b-calculator)
+
+* [source code](https://github.com/vprsnc/a-b-calculator)
+
 ### Finances
 This is an app for managing personal finances built with R Shiny, and hosted on this server.
 This is a copy of the app I was using myself for controlling my expenses.
@@ -27,9 +34,3 @@ It also has better funnier colorscheme (:
 
 * [source code](https://github.com/vprsnc/dem-timetable)
 
-### Bayesian A/B test calculator
-Universal calculator for any kind of A/B tests, build 100% with R and Shiny.
-
-* [calculator]()
-
-* [source code]()
