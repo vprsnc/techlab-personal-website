@@ -9,7 +9,7 @@ Here you can find some of the analytical dashboards built by me, as well the sou
 ### Bayesian A/B test calculator
 Universal calculator for any kind of A/B tests, build 100% with R and Shiny.
 
-* [calculator](https://shiny.georgyt.xyz/myapps/a-b-calculator)
+* [calculator](https://shiny.analytics-abc.xyz/apps/a-b-calculator)
 
 * [source code](https://github.com/vprsnc/a-b-calculator)
 
@@ -19,7 +19,7 @@ This is a copy of the app I was using myself for controlling my expenses.
 It uses Postgre as a database, but only for that several people can load it to watch and test, but for the personal use this is an overkill.
 Duckdb should just fine ;)_
 
-* [app](https://shiny.georgyt.xyz/myapps/finances)
+* [app](https://shiny.analytics-abc.xyz/apps/finances)
 
 * [source code](https://github.com/vprsnc/finances)
 

@@ -8,7 +8,7 @@ hasCJKLanguage = true
 [[menu.main]]
   name = 'Portfolio'
   url = '/portfolio/'
-  weight = 2
+  weight = 1
 [[menu.main]]
   name = 'About'
   url = '/about/'
@@ -16,11 +16,15 @@ hasCJKLanguage = true
 [[menu.main]]
   name = 'My Posts'
   url = '/my-posts/'
-  weight = 1
+  weight = 4
+[[menu.main]]
+  name = 'Analytics-ABC'
+  url = 'https://analytics-abc.xyz'
+  weight = 3
 [[menu.main]]
   name = 'RSS'
   url = '/index.xml'
-  weight = 3
+  weight = 5
 
 [params]
   description = "Hi there! Good to have you here, my name is Georgy, and I am a data analyst. Feel free to check out 'about' and 'portfolio' sections for my CV, or take a look on my posts on statistics, analytics, and other fun stuff, and don't forget about the portfolio! This is a new webset, so there's not much here, but I'm trying to keep it up, and collect all the things here."
@@ -28,7 +32,7 @@ hasCJKLanguage = true
   [params.social]
     Telegram = "https://t.me/vprsnc"
     Gitlab = "https://gitlab.com/vprsnc"
-    Email = "me@georgyt.xyz"
+    Email = "georgy@analytics-abc.xyz"
     Github = "https://github.com/vprsnc"
     Linkedin = "https://www.linkedin.com/in/georgy-toporkov-actually/"
 
